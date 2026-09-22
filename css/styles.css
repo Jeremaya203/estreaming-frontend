@@ -469,7 +469,7 @@ a:hover {
 }
 
 .term-ticker {
-  color: var(--verde);
+  color: var(--dim);
   white-space: pre;
   overflow: hidden;
   padding: 4px 12px;
