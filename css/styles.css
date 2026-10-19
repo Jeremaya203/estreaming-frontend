@@ -531,6 +531,15 @@ a:hover {
   color: var(--ambar);
 }
 
+.term-footer .tecla-descarga {
+  color: var(--ambar);
+  font-weight: 700;
+}
+
+.term-footer .tecla-descarga:hover {
+  text-decoration: underline;
+}
+
 .term-prompt {
   color: var(--ambar);
   padding: 6px 12px;
